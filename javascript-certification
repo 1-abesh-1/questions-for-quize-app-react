@@ -1,5 +1,4 @@
-{
-  "questions": [
+[
     {
       "question": "What is the correct syntax to create a function in JavaScript?",
       "A": "function myFunction()",
@@ -113,4 +112,4 @@
       "answer": "A"
     }
   ]
-}
+
